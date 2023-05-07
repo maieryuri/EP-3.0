@@ -1,0 +1,20 @@
+.titulo{
+    color: gray;
+}
+
+.img{
+    width: 19%;
+}
+
+.letra{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.caixa{
+    margin: 10%;
+    color: black;
+}
+
+.gordo{
+    width: 40%;
+}
